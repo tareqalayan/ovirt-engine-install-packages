@@ -1,0 +1,5 @@
+---
+# default vars for ovirt-ovirt-engine-install-packages-packages role
+ovirt_engine_dwh: True
+ovirt_engine_version: 4.1
+ovirt-engine-extension-aaa-ldap: True

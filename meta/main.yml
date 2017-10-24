@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: Tareq Alayan
+  description: Role to install packages required for deployin oVirt engine.
+  company: Red Hat, Inc.
+
+  license: Apache License 2.0
+
+  min_ansible_version: 2.3
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  - name: Fedora
+    versions:
+    - 24
+    - 25
+
+  galaxy_tags: [ovirt, rhv, rhev, virtualization]
+
+dependencies: []
